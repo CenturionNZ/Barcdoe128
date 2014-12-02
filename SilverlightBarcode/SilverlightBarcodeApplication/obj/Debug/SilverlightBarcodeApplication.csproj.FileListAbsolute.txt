@@ -1,0 +1,28 @@
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeApplication\obj\Debug\App.g.cs
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeApplication\obj\Debug\Page.g.cs
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeApplication\obj\Debug\SilverlightBarcodeApplication.g.resources
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeApplication\Bin\Debug\AppManifest.xaml
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeApplication\Bin\Debug\SilverlightBarcodeApplication.dll
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeApplication\Bin\Debug\SilverlightBarcodeApplication.pdb
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeApplication\Bin\Debug\SilverlightBarcodeApplication.xap
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeApplication\Bin\Debug\TestPage.html
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeApplication\Bin\Debug\SilverlightBarcodeClassLibrary.dll
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeApplication\Bin\Debug\SilverlightBarcodeClassLibrary.pdb
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeApplication\obj\Debug\SilverlightBarcodeApplication.dll
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeApplication\obj\Debug\SilverlightBarcodeApplication.pdb
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeApplication\obj\Debug\XapCacheFile.xml
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeApplication\Bin\Debug\SilverlightBarcodeApplication.dll
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeApplication\Bin\Debug\SilverlightBarcodeApplication.pdb
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeApplication\Bin\Debug\AppManifest.xaml
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeApplication\Bin\Debug\SilverlightBarcodeApplication.xap
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeApplication\Bin\Debug\TestPage.html
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeApplication\Bin\Debug\SilverlightBarcodeClassLibrary.dll
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeApplication\Bin\Debug\SilverlightBarcodeClassLibrary.pdb
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeApplication\obj\Debug\SilverlightBarcodeApplication.csprojResolveAssemblyReference.cache
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeApplication\obj\Debug\App.g.cs
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeApplication\obj\Debug\Page.g.cs
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeApplication\obj\Debug\SilverlightBarcodeApplication.g.resources
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeApplication\obj\Debug\SilverlightBarcodeApplication.dll
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeApplication\obj\Debug\SilverlightBarcodeApplication.pdb
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeApplication\obj\Debug\XapCacheFile.xml

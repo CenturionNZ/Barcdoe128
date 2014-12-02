@@ -1,0 +1,10 @@
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeClassLibrary\Bin\Debug\SilverlightBarcodeClassLibrary.dll
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeClassLibrary\Bin\Debug\SilverlightBarcodeClassLibrary.pdb
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeClassLibrary\obj\Debug\SilverlightBarcodeClassLibrary.dll
+C:\Users\Jacob\Documents\Visual Studio 2008\Projects\Project1\SilverlightHelloWorld\SilverlightBarcodeClassLibrary\obj\Debug\SilverlightBarcodeClassLibrary.pdb
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeClassLibrary\Bin\Debug\SilverlightBarcodeClassLibrary.dll
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeClassLibrary\Bin\Debug\SilverlightBarcodeClassLibrary.pdb
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeClassLibrary\obj\Debug\SilverlightBarcodeClassLibrary.csprojResolveAssemblyReference.cache
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeClassLibrary\obj\Debug\SilverlightBarcodeClassLibrary.dll
+D:\DOWNLOADS\Completed\SilverlightBarcodeSource\SilverlightBarcode\SilverlightBarcodeClassLibrary\obj\Debug\SilverlightBarcodeClassLibrary.pdb
