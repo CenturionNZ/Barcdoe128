@@ -1,0 +1,5 @@
+D:\DOWNLOADS\Completed\barcode_src\BarcodeLib\bin\Debug\BarcodeLib.dll
+D:\DOWNLOADS\Completed\barcode_src\BarcodeLib\bin\Debug\BarcodeLib.pdb
+D:\DOWNLOADS\Completed\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.csprojResolveAssemblyReference.cache
+D:\DOWNLOADS\Completed\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.dll
+D:\DOWNLOADS\Completed\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.pdb
